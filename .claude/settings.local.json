@@ -97,7 +97,11 @@
       "Bash(npm install -g vercel)",
       "Bash(vercel --prod)",
       "Bash(vercel --prod --yes)",
-      "Bash(dir)"
+      "Bash(dir)",
+      "Bash(set VERCEL_TOKEN=bOS6mczd8hYNvHGfXzoM6z7n)",
+      "Bash(npx vercel --prod --yes)",
+      "Bash(dir package.json)",
+      "Bash(npx vercel --prod --scope muhammad-saqib)"
     ]
   }
 }
